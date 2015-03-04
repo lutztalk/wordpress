@@ -18,7 +18,7 @@ cd public_html
 rmdir ./wordpress/
 rm -f latest.tar.gz
 cd /
-rm -f YOURDOMAIN.sh
+rm -f install.sh
 
 ##Replace YOURDOMAIN with the virtual server you want to install WordPress on
 
