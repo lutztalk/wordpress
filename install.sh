@@ -23,7 +23,7 @@ rm -f install.sh
 ##Replace YOURDOMAIN with the virtual server you want to install WordPress on
 
 ##Navigate to your domain via the web browser of your choice
-##Ex. www.domain.com, localhost (if you are installing on your Mac) 
+##Ex. www.domain.com, localhost (if you are installing locally) 
 ##Follow prompts to install WordPress
 
 
